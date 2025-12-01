@@ -1,8 +1,6 @@
-# [cognitive_types_hypothesis]
+著者: 中西省二
 
-著者: [中西省二]
-
-Copyright (c) 2025 [中西省二].
+Copyright (c) 2025 中西省二.
 
 ---
 
@@ -14,7 +12,7 @@ Copyright (c) 2025 [中西省二].
 
 ライセンスの詳細は、[https://creativecommons.org/licenses/by/4.0/deed.ja](https://creativecommons.org/licenses/by/4.0/deed.ja) をご参照ください。
 
-# 人類2タイプ説：認知構造仮説
+# 人類認知構造2タイプ仮説
 
 ## 1. 基本仮説
 

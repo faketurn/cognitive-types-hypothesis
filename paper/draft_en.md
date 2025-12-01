@@ -1,8 +1,6 @@
-# Cognitive Types Hypothesis
+Author: Nakanishi Shoji
 
-Author: [Nakanishi Shoji]
-
-Copyright (c) 2025 [Nakanishi Shoji].
+Copyright (c) 2025 Nakanishi Shoji.
 
 ---
 
