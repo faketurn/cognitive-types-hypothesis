@@ -1,4 +1,4 @@
-# [cognitive_types_hypothesis]
+# Cognitive Types Hypothesis
 
 Author: [Nakanishi Shoji]
 

@@ -1,4 +1,4 @@
-# Cognitive Types Hypothesis（仮題）
+# 人類認知構造2タイプ仮説 (Cognitive Types Hypothesis)
 
 ## English Version
 [Click here to read the English README](README_en.md)
