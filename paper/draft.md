@@ -1,6 +1,7 @@
 # [cognitive_types_hypothesis]
 
 著者: [中西省二]
+
 Copyright (c) 2025 [中西省二].
 
 ---

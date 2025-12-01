@@ -1,6 +1,7 @@
 # [cognitive_types_hypothesis]
 
 Author: [Nakanishi Shoji]
+
 Copyright (c) 2025 [Nakanishi Shoji].
 
 ---
