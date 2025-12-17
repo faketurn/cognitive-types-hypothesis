@@ -401,7 +401,7 @@ These individuals require extensive support. Their bodies are overwhelmed by sen
 
 ---
 
-### Historical Shifts in Diagnosis and the Role of Modality
+#### Historical Shifts in Diagnosis and the Role of Modality
 
 Historically, diagnostic frameworks distinguished between language-dominant presentations (e.g., Asperger’s syndrome) and body-dominant presentations (e.g., classical autism). In DSM-IV, these were treated as separate diagnoses, while DSM-5 unified them under the single category of Autism Spectrum Disorder.
 
@@ -819,25 +819,25 @@ The present theoretical framework also suggests new possibilities for understand
 
 These interpretations are provisional and intended as theoretical suggestions rather than definitive accounts. Further systematic and empirical investigation will be required to evaluate the validity and scope of these extensions.
 
-## 4. Translation Cost and Structural Asymmetry
+# 4. Translation Cost and Structural Asymmetry
 
 In the previous chapter, this paper examined how differences in cognitive types are manifested within existing diagnostic categories. The present chapter analyzes how these differences give rise to specific problems through their interaction with social structures. The core concept introduced here is **translation cost**.
 
-### 4.1 The Concept of Translation Cost
+## 4.1 The Concept of Translation Cost
 
-#### 4.1.1 Definition
+### 4.1.1 Definition
 
 Translation cost refers to the cognitive, temporal, and emotional burdens that arise when individuals with different cognitive structures communicate with one another or attempt to adapt to a shared environment. Just as communication between speakers of different languages requires one party to translate into the other’s language, interaction between individuals with different cognitive structures requires the translation of cognitive styles.
 
 This translation is not a mere conversion of linguistic expressions. Rather, it entails transforming the underlying **principle of information organization** itself. For non-hierarchical individuals to function within a hierarchically structured society, they must translate their network-based cognition into hierarchical forms. Conversely, for hierarchical individuals to function in non-hierarchical environments, they must translate their hierarchical cognition into network-based forms.
 
-#### 4.1.2 Directionality of Translation
+### 4.1.2 Directionality of Translation
 
 A critical feature of translation cost is its **directional asymmetry**. Translation from hierarchical to non-hierarchical forms is relatively easy. It requires only the loosening or flattening of hierarchical structures. In general, dismantling a structure is easier than constructing one.
 
 In contrast, translation from non-hierarchical to hierarchical forms is extremely demanding. Information that exists as a network must be reorganized into a hierarchical structure. This process is equivalent to reconstructing innumerable nodes and links in a network into a tree structure defined by logical inclusion and sequential order. Such reconstruction imposes a chronic cognitive overload on non-hierarchical individuals.
 
-#### 4.1.3 Components of Translation Cost
+### 4.1.3 Components of Translation Cost
 
 Translation cost consists of multiple interrelated components.
 
@@ -849,35 +849,35 @@ Translation cost consists of multiple interrelated components.
 
 Although each of these costs may appear minor in the short term, their chronic accumulation can have severe consequences. Over time, accumulated translation cost manifests as physical symptoms, psychological exhaustion, and social maladaptation.
 
-### 4.2 Structural Asymmetry of Hierarchical Society
+## 4.2 Structural Asymmetry of Hierarchical Society
 
 Modern society is optimized for hierarchical cognition at every structural level. As a result, individuals with non-hierarchical cognition are compelled to engage in continuous translation across all layers of society.
 
-#### 4.2.1 Language and Information Structure
+### 4.2.1 Language and Information Structure
 
 Language itself is a product of hierarchical cognition. The subject–predicate structure presupposes a hierarchical relationship in which the subject occupies a higher-level position and the predicate a subordinate one. Tense organizes time into a linear hierarchy of past, present, and future. Likewise, the relationship between abstract and concrete concepts is represented hierarchically, with abstract concepts positioned above their concrete instances.
 
 For individuals with non-hierarchical cognition, articulating lived experience through language is structurally difficult. In non-hierarchical cognition, information exists simultaneously and in parallel, whereas language unfolds in a linear and sequential manner. The hierarchical explanatory style commonly demanded in social contexts—“first the conclusion, then the reasons”—is experienced as unnatural by non-hierarchical individuals, whose cognition does not privilege linear ordering or top-down structuring.
 
-#### 4.2.2 Institutions and Organizations
+### 4.2.2 Institutions and Organizations
 
 Social institutions are themselves hierarchical structures. Corporations, schools, and bureaucratic systems define authority, roles, and affiliation according to one’s position within a hierarchy. For individuals with non-hierarchical cognition, these hierarchies are often experienced as artificial. Because they perceive relationships as networks, parallel relations such as “collaborators” or “project members” feel more natural than hierarchical relations such as “superiors” and “subordinates.”
 
 However, within hierarchical organizations, behavior that ignores or bypasses formal hierarchies is often sanctioned as “disrespectful” or as a “violation of rules.” In this way, non-hierarchical modes of interaction are systematically penalized, reinforcing the asymmetry between cognitive types.
 
-#### 4.2.3 Economic Systems
+### 4.2.3 Economic Systems
 
 Capitalist economic systems are grounded in long-term planning, accumulation, and predictability—features that align closely with the characteristics of hierarchical cognition. Organizational structures (pyramidal hierarchies), career paths (stepwise promotion), and financial systems (savings and compound interest) are all based on principles of systematic organization and hierarchical accumulation.
 
 Individuals with non-hierarchical cognition often prioritize immediacy over accumulation and the present over the future, and therefore tend to experience difficulty with capitalist expectations of planning and saving. This tendency does not reflect irrationality but rather a different form of rationality: maximizing value by releasing available resources—such as creativity and responsiveness—in the present environment, and optimizing utility within ongoing flows rather than through long-term hierarchical accumulation.
 
-#### 4.2.4 Education
+### 4.2.4 Education
 
 Formal education is a paradigmatic example of a hierarchical system. Curricula are designed to construct knowledge step by step, and evaluation is conducted through hierarchical metrics such as scores, grades, and rankings. For non-hierarchical children, this sequential and systematic mode of learning is often experienced as painful.
 
 Non-hierarchical learners tend to prefer exploratory and discontinuous learning driven by interest, moving jumpwise rather than incrementally. Hierarchical education systems, however, typically reject this learning style by insisting that “application is impossible without mastery of the basics,” thereby denying the legitimacy of non-hierarchical modes of learning.
 
-#### 4.2.5 Medicine
+### 4.2.5 Medicine
 
 Medical systems are also hierarchically structured. Diagnostic frameworks such as DSM-5 and ICD-11 classify conditions through hierarchical taxonomies, and treatment proceeds through a hierarchical process of diagnosis, treatment planning, and implementation.
 
@@ -930,15 +930,15 @@ The psychological consequences of translation cost manifest as nihilism, burnout
 
 Withdrawal from translation is socially observed as “maladaptation.” Social withdrawal, job loss, and poverty are regarded as failures within hierarchical society, but in fact represent bodily and psychological responses to translational impossibility. These physical symptoms, psychological states, and social outcomes are not indicators of individual deficiency or maladaptation; they are the accumulated consequences of translation cost imposed by hierarchical society on non-hierarchical cognition. The problem resides not in individuals, but in social structure.
 
-## 5. The Proposal for Cognitive Segregation
+# 5. The Proposal for Cognitive Segregation
 
 In the preceding chapters, this paper has examined differences in cognitive types, the ways in which these differences are expressed through diagnostic categories, and the translation costs imposed on non-hierarchical cognition by hierarchical society. In this chapter, **cognitive segregation** is proposed as a response to this structural problem.
 
-### 5.1 Problems with the Coexistence Model
+## 5.1 Problems with the Coexistence Model
 
 The dominant ideal in contemporary society is *inclusion*. The Convention on the Rights of Persons with Disabilities, the neurodiversity movement, and diversity-oriented management all promote the vision that diverse individuals should coexist within the same social spaces. This ideal emerged as a progressive reaction against historical practices of exclusion and segregation. However, in the context of cognitive-type differences, the coexistence model contains fundamental flaws.
 
-#### 5.1.1 Inclusion as Assimilation Pressure
+### 5.1.1 Inclusion as Assimilation Pressure
 
 The term *inclusion* suggests equal coexistence, but in practice it often means assimilation into hierarchical society. Inclusion typically refers to incorporating diverse individuals into existing social structures while leaving those structures fundamentally unchanged. Because these structures are optimized for hierarchical cognition, non-hierarchical individuals are continuously forced to translate their cognition in order to function within them.
 
@@ -946,7 +946,7 @@ Reasonable accommodations likewise represent only limited adjustments that presu
 
 The rhetoric of “respecting diversity” is often hollow. Hierarchical society may claim to respect non-hierarchical individuals while simultaneously demanding that they become more hierarchical. Adaptation training, social skills training, and pharmacological interventions all function as attempts to convert non-hierarchical cognition into hierarchical forms.
 
-#### 5.1.2 Structural Incompatibility of Cognitive Architectures
+### 5.1.2 Structural Incompatibility of Cognitive Architectures
 
 The core problem of the coexistence model is its failure to recognize the structural incompatibility between hierarchical and non-hierarchical cognition. This is not a matter of stylistic preference or individual inclination; it is a difference at the most fundamental level of information organization.
 
@@ -954,7 +954,7 @@ When cognition is hierarchized, non-hierarchical individuals cannot function opt
 
 Attempts to “respect both sides” often result in the partial suppression of both. Requiring individuals to switch between hierarchical and non-hierarchical modes depending on context imposes translation costs on both cognitive types. The outcome is an environment in which neither type can function optimally.
 
-#### 5.1.3 The Persistence of Translation Cost
+### 5.1.3 The Persistence of Translation Cost
 
 Within the coexistence model, translation cost is never eliminated. As long as hierarchical social structures remain intact, non-hierarchical individuals must continue translating their cognition in every domain of life. Even in “understanding environments” or “accommodating workplaces,” the foundational layers of society—language, institutions, and evaluation systems—remain hierarchical.
 
@@ -1080,15 +1080,15 @@ To the claim that “segregation harms children,” this paper responds that the
 
 Cognitive segregation is a challenging proposal. Yet if the goal is to end translation cost as a form of structural violence, a fundamental redesign of social structure is unavoidable. Cognitive segregation represents one viable path toward that end.
 
-## 6. Discussion
+# 6. Discussion
 
 This chapter acknowledges the limitations of the present theory, clarifies its falsifiability, outlines directions for future research, and discusses its broader social implications.
 
-### 6.1 Limitations of the Theory
+## 6.1 Limitations of the Theory
 
 The present theory has important limitations. Explicitly articulating these limitations is essential for the intellectual integrity of the theory and for its future development.
 
-#### 6.1.1 Lack of Empirical Data
+### 6.1.1 Lack of Empirical Data
 
 The most significant limitation of this theory is the lack of empirical data. The present paper is based primarily on the author’s long-term self-analysis. It constitutes an n = 1 first-person study, and its generalizability is therefore limited. There is no guarantee that the author’s experience represents a typical case of the non-hierarchical × language-dominant × high-metacognition (galaxy-type) configuration. It is entirely possible that other non-hierarchical individuals, or individuals located in other quadrants, possess different cognitive structures or developmental trajectories.
 
@@ -1143,13 +1143,13 @@ Of particular importance are the following unresolved issues:
    * Whether the eight quadrants represent discrete categories or a continuous spectrum
    * Intra-individual variability across contexts and developmental stages
 
-#### 6.1.2 Unresolved Neuroscientific Foundations
+### 6.1.2 Unresolved Neuroscientific Foundations
 
 Although the present theory posits fundamental differences in cognitive structure, its neuroscientific foundations remain unresolved. It is currently unclear how hierarchical versus non-hierarchical cognition corresponds to differences in brain structure, neurotransmitter systems, or large-scale network properties.
 
 Connections between this theory and existing neuroscientific research on ASD and ADHD have not yet been established. Future work must examine how the proposed cognitive types relate to existing neuroimaging findings. Empirical studies using functional MRI, structural MRI, and diffusion tensor imaging (DTI) will be necessary to elucidate the neural substrates underlying hierarchical and non-hierarchical cognition.
 
-#### 6.1.3 Lack of Established Measurement Methods
+### 6.1.3 Lack of Established Measurement Methods
 
 To empirically test the present theory, reliable methods for measuring cognitive type are required. At present, however, no standardized questionnaires or cognitive tasks exist to distinguish hierarchical from non-hierarchical cognition.
 
@@ -1157,11 +1157,11 @@ Future methodological development should proceed along several lines. First, sel
 
 Only after such measurement tools are developed will rigorous empirical testing of the present theory become possible.
 
-### 6.2 Falsifiability
+## 6.2 Falsifiability
 
 For a theory to be scientific, it must be falsifiable. This section specifies the kinds of empirical evidence that would warrant the rejection of the present theory.
 
-#### 6.2.1 Conditions for Rejection
+### 6.2.1 Conditions for Rejection
 
 The present theory would be rejected if the following types of evidence were obtained.
 
@@ -1173,7 +1173,7 @@ Third, if the existence of translation cost could not be empirically demonstrate
 
 Fourth, if the proposed benefits of cognitive segregation were not observed. If individuals with non-hierarchical cognition showed no improvement in well-being, creativity, or productivity when living in environments optimized for non-hierarchical cognition, the proposal of segregation would not be justified.
 
-#### 6.2.2 Competing Hypotheses
+### 6.2.2 Competing Hypotheses
 
 Several competing hypotheses can be formulated in opposition to the present theory.
 
@@ -1494,11 +1494,11 @@ The implications of this theory extend beyond education and labor. Urban design,
 
 This represents an immense challenge—but also an immense opportunity. By constructing a society in which each cognitive type can function optimally, humanity’s overall capacity and creativity can be liberated. Hierarchical cognition excels in system-building and knowledge accumulation; non-hierarchical cognition excels in exploration and creation. Cognitive segregation is a form of social design that seeks to fully realize this diversity.
 
-## 7. Conclusion
+# 7. Conclusion
 
 This paper has reinterpreted developmental disorders as differences in cognitive structure, elucidated the translation costs imposed on non-hierarchical cognition by a hierarchical society, and proposed *segregation* as a new model of social design. In this concluding chapter, the core arguments of the paper are summarized, the significance of segregation is reaffirmed, and future prospects are outlined.
 
-### 7.1 Summary of the Hypothesis
+## 7.1 Summary of the Hypothesis
 
 The central claim of this paper is that human cognition consists of two fundamentally different types: **hierarchical cognition** and **non-hierarchical cognition**. In hierarchical cognition, information is organized in hierarchical or tree-like structures; in non-hierarchical cognition, information exists in network- or graph-like structures. This distinction is not merely a difference in “style,” but a fundamental difference in how the world is experienced.
 
@@ -1506,7 +1506,7 @@ Existing diagnoses of developmental disorders can be reinterpreted as manifestat
 
 Modern society is optimized for hierarchical cognition at every level—language, institutions, economy, education, and medicine. Individuals with non-hierarchical cognition are compelled to bear a chronic burden of “translating” their cognitive style into a hierarchical one. This **translation cost** accumulates as cognitive, temporal, and emotional load, manifesting as physical symptoms, mental exhaustion, and social maladaptation. Crucially, this translation cost is borne unilaterally by non-hierarchical individuals, revealing a profound structural asymmetry.
 
-### 7.2 The Significance of Segregation
+## 7.2 The Significance of Segregation
 
 To address this problem, this paper proposes not “coexistence,” but **segregation**. Segregation refers to a social arrangement in which each cognitive type lives in environments optimized for its own cognitive structure. This segregation is realized spatially, institutionally, and informationally. Hierarchical and non-hierarchical societies coexist in parallel, and individuals choose between them according to their cognitive type. Boundaries are clear, but interaction is free, mediated by translators.
 
@@ -1518,7 +1518,7 @@ Second, segregation allows for the maximization of each cognitive type’s stren
 
 Third, segregation enables genuine diversity. Forced coexistence under the name of inclusion is, in practice, pressure toward assimilation into hierarchical norms. Segregation allows each cognitive type to exist on equal footing and to develop its own culture. Diversity does not mean absorption into uniformity; it means respect through differentiation.
 
-### 7.3 Future Prospects
+## 7.3 Future Prospects
 
 This paper presents a theoretical proposal. In the future, it must be tested, refined, or rejected through empirical research. Elucidating neural substrates, developing measurement tools, and conducting large-scale surveys are all necessary. The validity of this theory will be determined through such investigations.
 
@@ -1526,7 +1526,7 @@ At the same time, practical experiments in segregation are required. Small-scale
 
 In the long term, a comprehensive redesign of society comes into view. Education, labor, the economy, cities, and legal systems—all can be restructured on the assumption of cognitive diversity. This is a formidable challenge, but not an impossible one. Humanity has repeatedly transformed its social structures in the past. The Industrial Revolution, the expansion of democracy, and the establishment of human rights all once seemed impossible, yet were realized. Segregation, likewise, is achievable.
 
-### 7.4 Final Message
+## 7.4 Final Message
 
 To those directly affected who read this paper: the vague sense of discomfort you have felt has a name. It does not mean you are “broken,” but that you are a different type. The translation imposed on you by a hierarchical society is a form of violence. You have the right to live without translation. Demand segregation.
 
@@ -1536,7 +1536,7 @@ To researchers who read this paper: test this theory. Criticize it. Improve it. 
 
 Cognitive diversity is one of humanity’s strengths. But for that diversity to be genuinely respected, segregation is necessary. Beyond assimilation under the name of coexistence, toward a new form of shared existence grounded in segregation. That is the proposal of this paper.
 
-## Acknowledgments
+# Acknowledgments
 
 This paper was shaped through many years of dialogue with myself, as well as through sustained dialogue with others.
 
@@ -1548,7 +1548,7 @@ My gratitude to my family is complex. A harsh environment became a path of suffe
 
 Finally, to all those who live with a similar, unnamed sense of dissonance: I hope that this paper gives words to that feeling and serves, even in a small way, as a light pointing toward the path of *segregation*.
 
-## References
+# References
 
 American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing.
 
@@ -1566,77 +1566,77 @@ Singer, J. (1998). *Odd people in: The birth of community amongst people on the 
 
 World Health Organization. (2019). *International classification of diseases* (11th ed.). WHO.
 
-### Additional Recommended Literature (by Category)
+## Additional Recommended Literature (by Category)
 
-#### Neurodiversity and Insider Research
+### Neurodiversity and Insider Research
 
 * Chapman, R. (2020). The reality of autism: On the metaphysics of disorder and diversity. *Philosophical Psychology*, 33(6), 799–819.
 * Walker, N. (2014). Neurodiversity: Some basic terms and definitions. *Neurocosmopolitanism*.
 
-#### Cognitive Science and Network Theory
+### Cognitive Science and Network Theory
 
 * Sporns, O. (2011). *Networks of the brain*. MIT Press.
 * Bassett, D. S., & Bullmore, E. T. (2017). Small-world brain networks revisited. *The Neuroscientist*, 23(5), 499–516.
 
-#### Disability Studies and the Social Model
+### Disability Studies and the Social Model
 
 * Goodley, D. (2017). *Disability studies: An interdisciplinary introduction* (2nd ed.). SAGE.
 * Garland-Thomson, R. (2002). Integrating disability, transforming feminist theory. *NWSA Journal*, 14(3), 1–32.
 
-#### ASD Research
+### ASD Research
 
 * Happé, F., & Frith, U. (2006). The weak coherence account: Detail-focused cognitive style in autism spectrum disorders. *Journal of Autism and Developmental Disorders*, 36(1), 5–25.
 * Mottron, L., et al. (2006). Enhanced perceptual functioning in autism: An update, and eight principles of autistic perception. *Journal of Autism and Developmental Disorders*, 36(1), 27–43.
 
-#### ADHD Research
+### ADHD Research
 
 * Sonuga-Barke, E. J. S. (2005). Causal models of attention-deficit/hyperactivity disorder: From common simple deficits to multiple developmental pathways. *Biological Psychiatry*, 57(11), 1231–1238.
 * Nigg, J. T., et al. (2005). Executive functions and ADHD in adults: Evidence for selective effects on ADHD symptom domains. *Journal of Abnormal Psychology*, 114(3), 706–717.
 
-#### Learning Theory
+### Learning Theory
 
 * Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.
 * Coffield, F., et al. (2004). *Learning styles and pedagogy in post-16 learning: A systematic and critical review*. Learning and Skills Research Centre.
 
-#### Cognitive Style
+### Cognitive Style
 
 * Riding, R., & Rayner, S. (1998). *Cognitive styles and learning strategies*. David Fulton Publishers.
 * Witkin, H. A., & Goodenough, D. R. (1981). *Cognitive styles: Essence and origins*. International Universities Press.
 
-#### Systemizing Theory
+### Systemizing Theory
 
 * Baron-Cohen, S., et al. (2003). The Systemizing Quotient: An investigation of adults with Asperger syndrome or high-functioning autism. *Philosophical Transactions of the Royal Society B*, 358(1430), 361–374.
 
-#### Giftedness and Twice-Exceptionality (2E)
+### Giftedness and Twice-Exceptionality (2E)
 
 * Silverman, L. K. (2013). *Giftedness 101*. Springer.
 * Foley-Nicpon, M., et al. (2011). Empirical investigation of twice-exceptionality: Where have we been and where are we going? *Gifted Child Quarterly*, 55(1), 3–17.
 
-#### Translation and Bilingualism (Metaphorical Reference)
+### Translation and Bilingualism (Metaphorical Reference)
 
 * Grosjean, F. (2010). *Bilingual: Life and reality*. Harvard University Press.
 
-#### Social Constructionism
+### Social Constructionism
 
 * Berger, P. L., & Luckmann, T. (1966). *The social construction of reality*. Doubleday.
 * Hacking, I. (1999). *The social construction of what?* Harvard University Press.
 
-#### Phenomenology (Description of Lived Experience)
+### Phenomenology (Description of Lived Experience)
 
 * Merleau-Ponty, M. (1945/2012). *Phenomenology of perception*. Routledge.
 * Gallagher, S., & Zahavi, D. (2008). *The phenomenological mind*. Routledge.
 
-#### Autoethnography and Insider Research Methodology
+### Autoethnography and Insider Research Methodology
 
 * Ellis, C., et al. (2011). Autoethnography: An overview. *Forum: Qualitative Social Research*, 12(1), Art. 10.
 * Kumagaya, S., & Ayaya, S. (2010). *Tsugarari no sahō: Onaji demo naku, chigau demo naku* [*Practices of connection: Neither the same nor different*]. NHK Publishing.
 
-## Appendix
+# Appendix
 
-### Supplementary Material: Critique of Kolb's Learning Theory
-#### Reinterpretation from the Two-Type Theory of Human Cognition
+## Supplementary Material: Critique of Kolb's Learning Theory
+### Reinterpretation from the Two-Type Theory of Human Cognition
 
-#### 1. Introduction
+### 1. Introduction
 
 This supplementary material attempts to apply the Two-Type Theory of Human Cognition (hierarchical/non-hierarchical) presented in the main paper to the field of learning theory. Specifically, it critically examines David Kolb's Experiential Learning Theory and his learning style model, reinterpreting them from the perspective of cognitive types.
 
@@ -1647,9 +1647,9 @@ Kolb's learning theory is widely influential in educational practice. However, f
 
 This material elaborates on these issues and suggests the possibility of a new learning theory based on cognitive types.
 
-#### 2. Overview of Kolb's Learning Theory
+### 2. Overview of Kolb's Learning Theory
 
-##### 2.1 The Experiential Learning Cycle
+#### 2.1 The Experiential Learning Cycle
 
 Kolb (1984) formalized learning as a four-stage cycle:
 
@@ -1660,7 +1660,7 @@ Kolb (1984) formalized learning as a four-stage cycle:
 
 It is believed that learning deepens by rotating through this cycle.
 
-##### 2.2 The Four Learning Styles
+#### 2.2 The Four Learning Styles
 
 Kolb proposed four learning styles based on which stages of the cycle an individual prefers:
 
@@ -1671,9 +1671,9 @@ Kolb proposed four learning styles based on which stages of the cycle an individ
 
 Individuals are generally thought to possess one primary style, and education is advised to align with this style.
 
-#### 3. Critique 1: Bias toward the Assimilating Style in Social Systems
+### 3. Critique 1: Bias toward the Assimilating Style in Social Systems
 
-##### 3.1 Structure of the Educational System
+#### 3.1 Structure of the Educational System
 
 In reality, educational systems are heavily biased toward the **Assimilating style** (RO + AC: Reflection $\rightarrow$ Abstract Conceptualization).
 
@@ -1684,7 +1684,7 @@ In reality, educational systems are heavily biased toward the **Assimilating sty
 
 Concrete Experience (CE) and Active Experimentation (AE) are limited to specific settings like labs or field work. The mainstream of education is the sitting transmission of abstract knowledge.
 
-##### 3.2 Correspondence Between Assimilating Style and Hierarchical Cognition
+#### 3.2 Correspondence Between Assimilating Style and Hierarchical Cognition
 
 Assimilating learning (Reflection $\rightarrow$ Abstract Conceptualization) corresponds directly to hierarchical cognition.
 
@@ -1696,7 +1696,7 @@ Assimilating learning (Reflection $\rightarrow$ Abstract Conceptualization) corr
 
 This is precisely the characteristic of hierarchical cognition, which organizes information hierarchically. Hierarchical individuals naturally excel at this process.
 
-##### 3.3 Difficulty for Non-Hierarchical Individuals
+#### 3.3 Difficulty for Non-Hierarchical Individuals
 
 For non-hierarchical learners, the assimilating style is unnatural.
 
@@ -1708,15 +1708,15 @@ For non-hierarchical learners, the assimilating style is unnatural.
 
 The current educational system negatively evaluates this learning style as "shallow" or "unsystematic." However, the problem lies not with the learner, but with the system's bias toward hierarchical cognition.
 
-#### 4. Critique 2: Overlooking Metacognitive Transcending of Styles
+### 4. Critique 2: Overlooking Metacognitive Transcending of Styles
 
-##### 4.1 Assumption of Fixed Styles
+#### 4.1 Assumption of Fixed Styles
 
 Kolb's theory assumes that individuals possess relatively fixed learning styles. Education is expected to accommodate these fixed styles.
 
 However, this assumption is problematic. With the development of metacognition, individuals can utilize multiple learning styles flexibly.
 
-##### 4.2 Metacognition and Learning Flexibility
+#### 4.2 Metacognition and Learning Flexibility
 
 Metacognition is the ability to recognize and regulate one’s own cognitive processes. Learners with high metacognition can:
 * Understand their own natural learning style.
@@ -1730,13 +1730,13 @@ For example, when a non-hierarchical learner acquires metacognition:
 
 This is the same mechanism described in the main paper for the formation of the **hybrid type**.
 
-##### 4.3 Kolb's Oversight
+#### 4.3 Kolb's Oversight
 
 Kolb's theory overlooks this flexibility enabled by metacognition. Learning styles are not fixed but developmental and context-dependent. The goal of education should not be to accommodate a specific style, but to foster metacognition so that learners can master and utilize multiple styles.
 
-#### 5. Critique 3: Invisibility of Non-Hierarchical Learning Styles
+### 5. Critique 3: Invisibility of Non-Hierarchical Learning Styles
 
-##### 5.1 Hierarchy in the Kolb Cycle
+#### 5.1 Hierarchy in the Kolb Cycle
 
 Kolb's four-stage cycle implicitly assumes a hierarchical progression.
 
@@ -1747,7 +1747,7 @@ Kolb's four-stage cycle implicitly assumes a hierarchical progression.
 
 However, this is a hierarchical model of learning. Non-hierarchical learning does not conform to this cycle.
 
-##### 5.2 Non-Hierarchical Learning: Parallel and Jump-Wise
+#### 5.2 Non-Hierarchical Learning: Parallel and Jump-Wise
 
 Non-hierarchical learners:
 * Engage in Experience, Reflection, Conceptualization, and Experimentation **simultaneously and in parallel**.
@@ -1760,13 +1760,13 @@ For example, in programming:
 
 While both are valid forms of learning, Kolb's theory implicitly assumes only the former as "correct learning."
 
-##### 5.3 Confusion of Diverging and Non-Hierarchical
+#### 5.3 Confusion of Diverging and Non-Hierarchical
 
 Kolb's "Diverging" style superficially appears similar to non-hierarchical cognition, emphasizing diverse perspectives and associative thinking. However, the Diverging style remains within the framework of the four-stage cycle. True non-hierarchical learning transcends the cycle itself.
 
-#### 6. Restructuring Learning Theory Based on Cognitive Types
+### 6. Restructuring Learning Theory Based on Cognitive Types
 
-##### 6.1 Characteristics of Hierarchical Learning
+#### 6.1 Characteristics of Hierarchical Learning
 
 **Information processing:**
 * Systematic and sequential.
@@ -1781,7 +1781,7 @@ Kolb's "Diverging" style superficially appears similar to non-hierarchical cogni
 **Suitable domains:**
 * Mathematics, physics, law, and other domains where systematicity is crucial.
 
-##### 6.2 Characteristics of Non-Hierarchical Learning
+#### 6.2 Characteristics of Non-Hierarchical Learning
 
 **Information processing:**
 * Exploratory and parallel.
@@ -1796,7 +1796,7 @@ Kolb's "Diverging" style superficially appears similar to non-hierarchical cogni
 **Suitable domains:**
 * Art, design, entrepreneurship, and other domains where creativity is crucial.
 
-##### 6.3 Potential of Hybrid Learning
+#### 6.3 Potential of Hybrid Learning
 
 Hybrid learners with developed metacognition:
 * Utilize both hierarchical and non-hierarchical styles depending on the situation.
@@ -1805,9 +1805,9 @@ Hybrid learners with developed metacognition:
 
 The ideal of education is to foster this hybrid type. However, the current system trains only the hierarchical style, compelling non-hierarchical learners to pay continuous translation costs.
 
-#### 7. Implications for Educational Practice
+### 7. Implications for Educational Practice
 
-##### 7.1 Necessity of Multiple Tracks
+#### 7.1 Necessity of Multiple Tracks
 
 Instead of a single educational system (optimized for hierarchical cognition), multiple tracks are necessary:
 
@@ -1823,7 +1823,7 @@ Instead of a single educational system (optimized for hierarchical cognition), m
 
 Students choose based on their cognitive type.
 
-##### 7.2 Importance of Metacognition Education
+#### 7.2 Importance of Metacognition Education
 
 Metacognition development is crucial in both tracks:
 * Understanding one's own learning style.
@@ -1832,14 +1832,14 @@ Metacognition development is crucial in both tracks:
 
 Metacognition enables the "transcending of types" discussed in the main paper.
 
-##### 7.3 Changing Role of the Teacher
+#### 7.3 Changing Role of the Teacher
 
 Teachers must utilize multiple teaching methods rather than a single pedagogy:
 * Systematic lectures for hierarchical students.
 * Exploratory facilitation for non-hierarchical students.
 * Understanding student cognitive types and providing appropriate learning environments.
 
-#### 8. Conclusion
+### 8. Conclusion
 
 Kolb's learning theory has made significant contributions to educational practice. However, it suffers from a bias toward hierarchical cognition, the neglect of metacognition, and the invisibility of non-hierarchical learning.
 
@@ -1847,7 +1847,7 @@ From the perspective of the Two-Type Theory of Human Cognition, learning theory 
 
 This supplementary material has offered merely a glimpse of the implications for learning theory. Further detailed theorization and empirical research are required. Education is one of the most crucial domains of social systems and plays a central role in realizing cognitive segregation.
 
-#### References (For Supplementary Material)
+### References (For Supplementary Material)
 
 Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.
 
