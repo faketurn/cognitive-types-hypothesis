@@ -1199,7 +1199,7 @@ To further develop the present theory, research is required in multiple compleme
 
 The first direction is empirical research, aimed at testing the core claims of the theory using experiential data.
 
-#### Qualitative Research: Detailed Descriptions of the Eight Quadrants
+**Qualitative Research: Detailed Descriptions of the Eight Quadrants**
 
 Through interviews with multiple participants (ASD, ADHD, AuDHD, and non-diagnosed individuals), future studies should explore the characteristics of cognitive structures, experiences of translation cost, and orientations toward cognitive segregation at each position within the eight-quadrant model.
 
@@ -1218,11 +1218,11 @@ Recommended interview methods include:
 * Collection of concrete episodes (school, workplace, interpersonal contexts)
 * Documentation of bodily manifestations of translation cost (e.g., headaches, incontinence, fatigue)
 
-#### Quantitative Research: Measurement and Validation of the Eight-Quadrant Model
+**Quantitative Research: Measurement and Validation of the Eight-Quadrant Model**
 
 Large-scale surveys should be conducted using newly developed instruments designed to measure cognitive types.
 
-##### Development of Measurement Scales
+**Development of Measurement Scales**
 
 1. **Cognitive Structure Scale (Hierarchical vs. Non-Hierarchical)**
 
@@ -1252,7 +1252,7 @@ Large-scale surveys should be conducted using newly developed instruments design
    * Bodily symptoms (headaches, gastrointestinal issues, sleep disturbances)
    * Emotional cost (stress, self-denial, depressive affect)
 
-##### Large-Scale Survey Design
+**Large-Scale Survey Design**
 
 * Sample size: 1,000+ participants (with and without diagnoses)
 * Estimation of the distribution across the eight quadrants
@@ -1260,7 +1260,7 @@ Large-scale surveys should be conducted using newly developed instruments design
 * Relationship between translation cost and well-being
 * Testing the independence of the three dimensions (factor analysis, structural equation modeling)
 
-#### Neuroscientific Research: Neural Bases of the Eight Quadrants
+**Neuroscientific Research: Neural Bases of the Eight Quadrants**
 
 Neuroimaging methods such as fMRI, structural MRI, and diffusion tensor imaging (DTI) should be used to explore the neural substrates of the eight-quadrant model.
 
@@ -1291,7 +1291,7 @@ Key research questions include:
    * Working memory occupation (prefrontal and parietal regions)
    * Stress responses (amygdala, hypothalamic–pituitary–adrenal axis)
 
-##### Integration with Existing ASD/ADHD Research
+**Integration with Existing ASD/ADHD Research**
 
 * Whether locally increased connectivity and reduced long-range connectivity reported in ASD reflect hierarchical cognition
 * Whether default mode network hyperactivity reported in ADHD reflects non-hierarchical cognition
@@ -1301,7 +1301,7 @@ Key research questions include:
 
 The second direction is further refinement of the theoretical framework presented in this paper.
 
-#### Detailed Descriptions of the Eight Quadrants
+**Detailed Descriptions of the Eight Quadrants**
 
 While this paper outlines the eight quadrants, each requires a more detailed account.
 
@@ -1313,7 +1313,7 @@ For each quadrant, future work should describe:
 * Typical developmental trajectories
 * Optimal forms of support and environments
 
-#### Deepening the Concept of Dominant Modality
+**Deepening the Concept of Dominant Modality**
 
 Although the present theory adopts a language-dominant vs. body-dominant distinction, further elaboration is needed.
 
@@ -1325,7 +1325,7 @@ Key questions include:
 * **Modality and ADHD subtypes**: Correspondence between inattentive (language-dominant) and hyperactive (body-dominant) presentations
 * **Mixed types**: States in which both modalities are simultaneously activated
 
-#### Developmental Mechanisms of Metacognition
+**Developmental Mechanisms of Metacognition**
 
 A theoretical account is needed of how metacognitive level is formed and transformed.
 
@@ -1341,7 +1341,7 @@ Key questions include:
 * **Stabilization at moderate metacognition**: Why AuDHD often remains at a moderate level
 * **Transition to high metacognition**: Conditions enabling the emergence of the galaxy type
 
-#### Structure and Function of the Translation Layer
+**Structure and Function of the Translation Layer**
 
 The translation layer in hybrid types (AuDHD, galaxy type) requires more precise theorization.
 
@@ -1353,7 +1353,7 @@ Key questions include:
 * **Automation**: Transition from effortful to automatic processing
 * **Quantification of translation cost**: Methods for measurement and comparison
 
-#### Mechanisms of Embodiment of Translation Cost
+**Mechanisms of Embodiment of Translation Cost**
 
 Further theorization is required regarding how translation cost manifests as bodily symptoms.
 
@@ -1365,7 +1365,7 @@ Key questions include:
 * Persistence of chronic symptoms (headaches, gastrointestinal issues, sleep disorders)
 * The body as a site of resistance to social protocols
 
-#### Integration with Other Cognitive Theories
+**Integration with Other Cognitive Theories**
 
 Finally, the theory should be integrated with existing frameworks in cognitive science, developmental psychology, and neuroscience.
 
@@ -1382,7 +1382,7 @@ Potential connections include:
 
 The third direction is applied research aimed at experimentally evaluating the effects and feasibility of cognitive segregation.
 
-#### Educational Experiments: Evaluating Exploratory Education
+**Educational Experiments: Evaluating Exploratory Education**
 
 Schools or programs implementing exploratory education optimized for non-hierarchical cognition should be established and evaluated.
 
@@ -1408,7 +1408,7 @@ Schools or programs implementing exploratory education optimized for non-hierarc
 * Non-hierarchical vs. hierarchical students
 * Longitudinal follow-up
 
-#### Labor Experiments: Evaluating Project-Based Work
+**Labor Experiments: Evaluating Project-Based Work**
 
 Organizations centered on project-based work optimized for non-hierarchical cognition should be established and studied.
 
@@ -1433,7 +1433,7 @@ Organizations centered on project-based work optimized for non-hierarchical cogn
 * Project-based vs. hierarchical organizations
 * Non-hierarchical vs. hierarchical workers
 
-#### Community Experiments: Building Non-Hierarchical Communities
+**Community Experiments: Building Non-Hierarchical Communities**
 
 Long-term observational studies should be conducted in communities optimized for non-hierarchical cognition.
 
@@ -1633,10 +1633,10 @@ World Health Organization. (2019). *International classification of diseases* (1
 
 ## Appendix
 
-# Supplementary Material: Critique of Kolb's Learning Theory
-## Reinterpretation from the Two-Type Theory of Human Cognition
+### Supplementary Material: Critique of Kolb's Learning Theory
+#### Reinterpretation from the Two-Type Theory of Human Cognition
 
-## 1. Introduction
+#### 1. Introduction
 
 This supplementary material attempts to apply the Two-Type Theory of Human Cognition (hierarchical/non-hierarchical) presented in the main paper to the field of learning theory. Specifically, it critically examines David Kolb's Experiential Learning Theory and his learning style model, reinterpreting them from the perspective of cognitive types.
 
@@ -1647,9 +1647,9 @@ Kolb's learning theory is widely influential in educational practice. However, f
 
 This material elaborates on these issues and suggests the possibility of a new learning theory based on cognitive types.
 
-## 2. Overview of Kolb's Learning Theory
+#### 2. Overview of Kolb's Learning Theory
 
-### 2.1 The Experiential Learning Cycle
+##### 2.1 The Experiential Learning Cycle
 
 Kolb (1984) formalized learning as a four-stage cycle:
 
@@ -1660,7 +1660,7 @@ Kolb (1984) formalized learning as a four-stage cycle:
 
 It is believed that learning deepens by rotating through this cycle.
 
-### 2.2 The Four Learning Styles
+##### 2.2 The Four Learning Styles
 
 Kolb proposed four learning styles based on which stages of the cycle an individual prefers:
 
@@ -1671,9 +1671,9 @@ Kolb proposed four learning styles based on which stages of the cycle an individ
 
 Individuals are generally thought to possess one primary style, and education is advised to align with this style.
 
-## 3. Critique 1: Bias toward the Assimilating Style in Social Systems
+#### 3. Critique 1: Bias toward the Assimilating Style in Social Systems
 
-### 3.1 Structure of the Educational System
+##### 3.1 Structure of the Educational System
 
 In reality, educational systems are heavily biased toward the **Assimilating style** (RO + AC: Reflection $\rightarrow$ Abstract Conceptualization).
 
@@ -1684,7 +1684,7 @@ In reality, educational systems are heavily biased toward the **Assimilating sty
 
 Concrete Experience (CE) and Active Experimentation (AE) are limited to specific settings like labs or field work. The mainstream of education is the sitting transmission of abstract knowledge.
 
-### 3.2 Correspondence Between Assimilating Style and Hierarchical Cognition
+##### 3.2 Correspondence Between Assimilating Style and Hierarchical Cognition
 
 Assimilating learning (Reflection $\rightarrow$ Abstract Conceptualization) corresponds directly to hierarchical cognition.
 
@@ -1696,7 +1696,7 @@ Assimilating learning (Reflection $\rightarrow$ Abstract Conceptualization) corr
 
 This is precisely the characteristic of hierarchical cognition, which organizes information hierarchically. Hierarchical individuals naturally excel at this process.
 
-### 3.3 Difficulty for Non-Hierarchical Individuals
+##### 3.3 Difficulty for Non-Hierarchical Individuals
 
 For non-hierarchical learners, the assimilating style is unnatural.
 
@@ -1708,15 +1708,15 @@ For non-hierarchical learners, the assimilating style is unnatural.
 
 The current educational system negatively evaluates this learning style as "shallow" or "unsystematic." However, the problem lies not with the learner, but with the system's bias toward hierarchical cognition.
 
-## 4. Critique 2: Overlooking Metacognitive Transcending of Styles
+#### 4. Critique 2: Overlooking Metacognitive Transcending of Styles
 
-### 4.1 Assumption of Fixed Styles
+##### 4.1 Assumption of Fixed Styles
 
 Kolb's theory assumes that individuals possess relatively fixed learning styles. Education is expected to accommodate these fixed styles.
 
 However, this assumption is problematic. With the development of metacognition, individuals can utilize multiple learning styles flexibly.
 
-### 4.2 Metacognition and Learning Flexibility
+##### 4.2 Metacognition and Learning Flexibility
 
 Metacognition is the ability to recognize and regulate one’s own cognitive processes. Learners with high metacognition can:
 * Understand their own natural learning style.
@@ -1730,13 +1730,13 @@ For example, when a non-hierarchical learner acquires metacognition:
 
 This is the same mechanism described in the main paper for the formation of the **hybrid type**.
 
-### 4.3 Kolb's Oversight
+##### 4.3 Kolb's Oversight
 
 Kolb's theory overlooks this flexibility enabled by metacognition. Learning styles are not fixed but developmental and context-dependent. The goal of education should not be to accommodate a specific style, but to foster metacognition so that learners can master and utilize multiple styles.
 
-## 5. Critique 3: Invisibility of Non-Hierarchical Learning Styles
+#### 5. Critique 3: Invisibility of Non-Hierarchical Learning Styles
 
-### 5.1 Hierarchy in the Kolb Cycle
+##### 5.1 Hierarchy in the Kolb Cycle
 
 Kolb's four-stage cycle implicitly assumes a hierarchical progression.
 
@@ -1747,7 +1747,7 @@ Kolb's four-stage cycle implicitly assumes a hierarchical progression.
 
 However, this is a hierarchical model of learning. Non-hierarchical learning does not conform to this cycle.
 
-### 5.2 Non-Hierarchical Learning: Parallel and Jump-Wise
+##### 5.2 Non-Hierarchical Learning: Parallel and Jump-Wise
 
 Non-hierarchical learners:
 * Engage in Experience, Reflection, Conceptualization, and Experimentation **simultaneously and in parallel**.
@@ -1760,13 +1760,13 @@ For example, in programming:
 
 While both are valid forms of learning, Kolb's theory implicitly assumes only the former as "correct learning."
 
-### 5.3 Confusion of Diverging and Non-Hierarchical
+##### 5.3 Confusion of Diverging and Non-Hierarchical
 
 Kolb's "Diverging" style superficially appears similar to non-hierarchical cognition, emphasizing diverse perspectives and associative thinking. However, the Diverging style remains within the framework of the four-stage cycle. True non-hierarchical learning transcends the cycle itself.
 
-## 6. Restructuring Learning Theory Based on Cognitive Types
+#### 6. Restructuring Learning Theory Based on Cognitive Types
 
-### 6.1 Characteristics of Hierarchical Learning
+##### 6.1 Characteristics of Hierarchical Learning
 
 **Information processing:**
 * Systematic and sequential.
@@ -1781,7 +1781,7 @@ Kolb's "Diverging" style superficially appears similar to non-hierarchical cogni
 **Suitable domains:**
 * Mathematics, physics, law, and other domains where systematicity is crucial.
 
-### 6.2 Characteristics of Non-Hierarchical Learning
+##### 6.2 Characteristics of Non-Hierarchical Learning
 
 **Information processing:**
 * Exploratory and parallel.
@@ -1796,7 +1796,7 @@ Kolb's "Diverging" style superficially appears similar to non-hierarchical cogni
 **Suitable domains:**
 * Art, design, entrepreneurship, and other domains where creativity is crucial.
 
-### 6.3 Potential of Hybrid Learning
+##### 6.3 Potential of Hybrid Learning
 
 Hybrid learners with developed metacognition:
 * Utilize both hierarchical and non-hierarchical styles depending on the situation.
@@ -1805,9 +1805,9 @@ Hybrid learners with developed metacognition:
 
 The ideal of education is to foster this hybrid type. However, the current system trains only the hierarchical style, compelling non-hierarchical learners to pay continuous translation costs.
 
-## 7. Implications for Educational Practice
+#### 7. Implications for Educational Practice
 
-### 7.1 Necessity of Multiple Tracks
+##### 7.1 Necessity of Multiple Tracks
 
 Instead of a single educational system (optimized for hierarchical cognition), multiple tracks are necessary:
 
@@ -1823,7 +1823,7 @@ Instead of a single educational system (optimized for hierarchical cognition), m
 
 Students choose based on their cognitive type.
 
-### 7.2 Importance of Metacognition Education
+##### 7.2 Importance of Metacognition Education
 
 Metacognition development is crucial in both tracks:
 * Understanding one's own learning style.
@@ -1832,14 +1832,14 @@ Metacognition development is crucial in both tracks:
 
 Metacognition enables the "transcending of types" discussed in the main paper.
 
-### 7.3 Changing Role of the Teacher
+##### 7.3 Changing Role of the Teacher
 
 Teachers must utilize multiple teaching methods rather than a single pedagogy:
 * Systematic lectures for hierarchical students.
 * Exploratory facilitation for non-hierarchical students.
 * Understanding student cognitive types and providing appropriate learning environments.
 
-## 8. Conclusion
+#### 8. Conclusion
 
 Kolb's learning theory has made significant contributions to educational practice. However, it suffers from a bias toward hierarchical cognition, the neglect of metacognition, and the invisibility of non-hierarchical learning.
 
@@ -1847,7 +1847,7 @@ From the perspective of the Two-Type Theory of Human Cognition, learning theory 
 
 This supplementary material has offered merely a glimpse of the implications for learning theory. Further detailed theorization and empirical research are required. Education is one of the most crucial domains of social systems and plays a central role in realizing cognitive segregation.
 
-## References (For Supplementary Material)
+#### References (For Supplementary Material)
 
 Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.
 
