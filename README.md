@@ -1,8 +1,8 @@
-# cognitive-types-hypothesis
-
 [日本語 (JA)](#ja) | [English (EN)](#en)
 
 ---
+
+# 人類認知構造2タイプ仮説ドラフト "Two-Type Theory of Human Cognition"
 
 <a id="ja"></a>
 
@@ -41,34 +41,31 @@
 
 <a id="en"></a>
 
-## English (Overview for international readers)
+## English (Development & Thought Process)
 
-# cognitive-types-hypothesis
-**— Repository for Drafts and Generative Process —**
+**—Repository for the Genesis of the "Two-Type Theory of Human Cognition"—**
 
-This repository contains the **drafts, development notes, and conceptual evolution** behind:
+This repository serves as a collection of **drafts, thought processes, Japanese source manuscripts, and fragmentary notes** for:
+**Shoji Nakanishi (2025), "Two-Type Theory of Human Cognition."**
 
-**Nakanishi, Shoji (2025). _Two-Type Theory of Human Cognition_.**
-
-It is **not** the final version.
-Instead, it documents the **generative, three‑dimensional process** through which the theory emerged.
+The contents here are not the final versions, but rather the **"generative strata"** where the theory was formed.
 
 ### 📁 Structure
 - `paper/`
-  - Japanese original manuscript (paper_ja.md)
-  - Early English drafts
+  - Japanese manuscripts (`paper_ja.md`)
+  - Initial English drafts
 - `notes/`
-  - Concept fragments, structural sketches, and working notes
-- Other files
-  - Internal development materials not intended for publication
+  - Fragments of thought, conceptual sketches, and structural memos
+- Others
+  - Internal working files and experimental notes
 
-### 🎯 Purpose
-- To preserve the conceptual development process
-- To document the translation path (JA → EN)
-- To archive structural experiments and early drafts
-- To show the “three‑dimensional” thinking that precedes the final paper
+### 🎯 Purpose of this Repository
+- To document the evolutionary process of the theory.
+- To preserve the translation journey from Japanese to English.
+- To track the trial-and-error involved in building the chapter structure.
+- To visualize the "three-dimensional flow of thought" leading up to the final work.
 
-### 📄 Final Version
-The final, published version of the paper is available here:
+### 📄 Final Version (English)
+The finalized papers are hosted in a separate repository:
 
-👉 https://github.com/faketurn/Cognitive-Segregation
+👉 [https://github.com/faketurn/Cognitive-Segregation](https://github.com/faketurn/Cognitive-Segregation)
